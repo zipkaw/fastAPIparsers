@@ -1,0 +1,10 @@
+flake8
+uvicorn
+fastapi
+python-dotenv
+requests
+beautifulsoup4
+pymongo
+kafka-python
+twitchAPI
+httpx
